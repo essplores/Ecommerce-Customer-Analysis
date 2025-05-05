@@ -65,9 +65,7 @@ This project analyzes eCommerce customer data to extract actionable insights aro
 ## 🧪 Files in This Repository
 
 - `ecommerce_customer_data_large.csv` – anonymized transactional dataset
-- `notebook.ipynb` – full Python notebook with code and visualizations
-- `plots/` – folder containing key visual outputs
-- `report_summary.pdf` – optional summary report version (if included)
+- `customer_analysis.ipynb` – full Python notebook with code and visualizations
 
 ---
 
